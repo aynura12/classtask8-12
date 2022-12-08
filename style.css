@@ -94,6 +94,7 @@ body {
   .success-toast {
     background-color: green;
   }
+  
   @keyframes fade-in {
     from {
       opacity: 0;
